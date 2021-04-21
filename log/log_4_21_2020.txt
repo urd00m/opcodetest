@@ -1,0 +1,7 @@
+Log for 4/21/2021: 
+
+- Microcode instruction from twitter source should be 0x0f 0 {x} (2 byte instruction) 
+	- Need to be in red unlocked mode to access this, which should only be avaible to intel, however, if there are management engine vulnerabilities then we could get into (possible) 
+- Set up github and documentation 
+- Seeing what happens if you run an invalid opcode does it through a UD 
+- 
