@@ -2,7 +2,7 @@
 
 ## Building 
 
-make clean <br \>
+make clean\
 make 
 
 ## Purpose 
